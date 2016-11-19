@@ -17,5 +17,6 @@ deploy:
       secure: hVx7TAV5W0oRk6VnpXgxokf96Letq4khevCM7hMZWcw/Dhdk0iSwJrx3oezD2bxO5IFzrWtm4kw9QEaxJPosWIO4xZpytmB0nKKD3ElBn+VyV7zZnpfvmAbkvjdB3GhHSdx/FVSux5FUub5WcjA385ui2JollH+sa2cQcsPSGAYqGFwf/Qj1Hrj/IAQ3gZNZagscD4Hh3Y2ZPShlCZZh0gN7/m6fn44ldsCxNWQM5VMlhud9PmPxovSRHP/oIb9QczpwqudPstbW1e40/gLILBMBS5pV04rA9Sk4YJye6zLPLSXz0fLz8CXnDOaB8ZJwQ6Srh+J58VHk4XPH+turNBdaJoLnw3QZnWdg5q1M+3ehbICPyPDHHkMwXOJBbUfJxPVLFEAR73JCHoLRVD8RQDQA3XqN0+WCXrhBuD+XV9q7ecUyGD6P15KLG6Yk+yz7KxXeea+T3BB5W14YO3APFTX1kGcT+RmWtgzLpM983XuEXBCcswtz8k++UNkv/m63EdrZ3juvv35DVVHIsnbWjlUujqISWftE1+3Qca8dohqV+eXxEMj/MsgflORVKlgs8qhOjt94SUCTtBccZUHHe7M7/PMKgpYlo+xn06Q9R5V9hD1qZXIrWvyOuVf1/srle4OTcjatw3j1HIeWjhqxFLoFbysEk5hOxzPhs8GUi/I=
   app: orangecounty
   on:
+    branch: master
     repo: dnguyensr/twooneoneOCproto
   skip_cleanup: true
